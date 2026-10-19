@@ -1,99 +1,109 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rostyslavkovtun.rostyslavkovtun&"  />
+
+<h3>Software Engineer · AI Agent Developer · Backend & Full-Stack</h3>
+
+<p>I build practical AI-powered applications, reliable APIs, and software that solves real problems.</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=Python+%7C+FastAPI+%7C+React+%7C+AWS;LangGraph+%7C+RAG+%7C+Tool-Using+AI+Agents;Building%2C+testing%2C+and+improving+real+software" alt="Software engineering and AI focus" />
+
+<br />
+
+<a href="mailto:mohammedkrizvi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/kumailhassanrizvi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Open%20to-U.S.%20Remote%20Roles%20%26%20Collaborations-238636?style=flat-square" alt="Open to U.S. remote roles" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7c3aed" alt="Profile views" />
+
 </div>
 
-###
+---
 
-<h1 align="center">Welcome to my profile 👋</h1>
+### 👨‍💻 About me
 
-###
+I'm a software engineer and AI agent developer with experience across Python backends, JavaScript applications, APIs, and applied AI.
 
-<h3 align="left">👩‍💻  About Me</h3>
+I enjoy turning ideas into useful software: designing the workflow, connecting systems, writing maintainable code, testing edge cases, and fixing what breaks outside the happy path.
 
-###
+My recent focus is on **LLM applications, tool-using AI agents, retrieval-augmented generation (RAG), and automation**.
 
-<p align="left">AI/ML & Full Stack Developer with 5+ years of experience building intelligent systems and scalable web applications. Passionate about leveraging cutting-edge technologies to solve complex problems and create impactful solutions.</p>
+I also enjoy traditional software engineering, from frontend development and databases to cloud deployment and data pipelines.
 
-###
+- 🤖 **AI Engineering:** LangGraph, multi-agent workflows, tool calling, MCP integrations, and automation.
+- 🔎 **Knowledge Systems:** RAG, embeddings, semantic search, vector databases, and context management.
+- ⚙️ **Software Engineering:** Python services, REST APIs, React applications, integrations, testing, and debugging.
+- ☁️ **Cloud & Delivery:** AWS, Docker, Git, CI/CD, and production reliability.
+- 📱 **Broader Interests:** Mobile development and blockchain/Web3 integrations.
 
-<h4 align="left">Professional Expertise:</h4>
+### 🧰 Technical toolbox
 
-###
+**Languages, Applications & APIs**
 
-<p align="left">• Design and implement end-to-end AI solutions from data collection to model deployment<br>• Develop full stack applications with integrated machine learning capabilities<br>• Build and optimize neural networks, deep learning models, and traditional ML algorithms<br>• Create scalable backend systems and intuitive frontend interfaces<br>• Implement MLOps pipelines for continuous integration and deployment of models<br>• Design efficient data processing pipelines and feature engineering workflows<br>• Deploy models in production environments with monitoring and maintenance</p>
+Python · JavaScript · TypeScript · React · FastAPI · Django · Flask · REST APIs
 
-###
+**AI Agents & LLMs**
 
-<h4 align="left">Current Focus:</h4>
+LangGraph · LangChain · LlamaIndex · OpenAI API · Claude · Llama · RAG · Tool Calling · MCP · Prompt Engineering
 
-###
+**Data & Retrieval**
 
-<p align="left">🧠 Working on NLP and computer vision projects<br>🤖 Developing autonomous systems with reinforcement learning<br>☁️ Building cloud-native AI solutions<br>📊 Exploring generative AI and LLM applications</p>
+PostgreSQL · pgvector · Redis · Pinecone · Qdrant · SQL · Embeddings · Semantic Search
 
+**Data Engineering**
 
-###
+Apache Kafka · Apache Spark · Apache Airflow
 
-<h4 align="left">Let's Connect:</h4>
+**Cloud & Development**
 
-###
-
-<p align="left">📫 Open to collaborations on AI research, ML projects, or full stack development<br>💡 Always interested in discussing innovative ideas at the intersection of AI and web technologies</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+AWS · Docker · Git · GitHub · CI/CD · Testing · Debugging · API Integration
 
 <div align="center">
-  <!-- AI/ML Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  
-  <!-- Full Stack Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  
-  <!-- Cloud & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,django,flask,postgres,redis,docker,aws,git&perline=6" alt="Development technology icons" />
 </div>
 
-###
+### 🚀 Selected work
 
-<h3 align="left">🔥   My Stats :</h3>
+**Style Sync — AI Fashion Discovery & Personalization**
 
-###
+Developed an AI-assisted fashion discovery project that brings products from multiple e-commerce brands into a unified experience.
+
+It includes a RAG-based product assistant and a generative design workflow for visualizing personalized apparel ideas.
+
+**Zameen.pk Property Analytics Pipeline**
+
+Designed a property-data processing pipeline using **Apache Kafka** for streaming ingestion, **Apache Spark** for processing, and **Apache Airflow** for workflow orchestration.
+
+Focused on dependable data flow and useful property analytics.
+
+**AI Agent & Backend Workflows — Professional Experience**
+
+Worked on LLM-powered application flows that connect models to tools, business logic, retrieval, and external APIs.
+
+My focus includes validation, state handling, error recovery, testing, and clear integration boundaries so AI features are useful beyond a demo.
+
+### 🔭 What I'm focusing on now
+
+- Building AI agents that interact with real APIs, tools, and data.
+- Improving RAG quality, tool-use reliability, testing, and evaluation practices.
+- Using AI coding assistants thoughtfully while reviewing changes, checking diffs, and testing code.
+- Exploring mobile products and blockchain/Web3 applications.
+
+### 🤝 Let's connect
+
+I'm interested in **U.S. remote software engineering and AI development opportunities**, independent projects, and collaborations with people building useful products.
+
+I'm especially drawn to work that values good engineering judgment, clear communication, and ownership from implementation through testing.
+
+
+### 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datavizdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datavizdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=datavizdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub activity stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </div>
-
-###
